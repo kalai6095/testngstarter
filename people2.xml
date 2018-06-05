@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person id="1">
+		<firstname>kalaiselvan</firstname>
+		<lastname>a</lastname>
+		<educations>
+			<education id="1">
+				<class>1</class>
+				<classname>firststandard</classname>
+			</education>
+			<education id="2">
+				<class>2</class>
+				<classname>secondstandard</classname>
+			</education>
+		</educations>
+	</person>
+	<person id="2">
+		<firstname>kurtis</firstname>
+		<lastname>john</lastname>
+		<educations>
+			<education>
+				<class>1</class>
+				<classname>firststandard</classname>
+			</education>
+			<education>
+				<class>2</class>
+				<classname>2secondstandard</classname>
+			</education>
+			<education>
+				<class>3</class>
+				<classname>3thirdstandard</classname>
+			</education>
+		</educations>
+	</person>
+</people>
