@@ -17,7 +17,6 @@ public class BaseTest {
         }
     }
 
-
     @AfterClass
     protected void down() {
         if (driver != null) {

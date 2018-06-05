@@ -24,7 +24,7 @@ public class Inputs extends BasePageObjects<Inputs> {
         //type()
     }
 
-    public void push_submit() {
-        click(testingbutton_click);
+    public SecondPageInputs push_submit() {
+       return click(testingbutton_click);
     }
 }
